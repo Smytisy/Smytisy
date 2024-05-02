@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Smytisy.Smytisy&"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 ###
 
 <p align="left"> Занимаюсь Data Science около года. Наиболее интресные направления: оптимизация портфелей инвестиций, сегментация аудитории, анализ поведения потребителей, увеличение конверсии и лояльности, настройка таргетинга и персонализация рекламы, прогнозирование спроса. 
-В свободное время </p>
+В свободное время занимаюсь акробатикой </p>
 
 ###
 
@@ -38,25 +38,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img >
+  
 </div>
 
 ###
@@ -66,7 +54,15 @@
   <img src="https://streak-stats.demolab.com?user=Smytisy&theme=blood-dark">
 </p>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smytisy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?
+username=Smytisy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 
