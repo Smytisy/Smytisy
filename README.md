@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 
-<p align="center">
+
  [![GitHub Streak](https://streak-stats.demolab.com?user=Smytisy&theme=blood-dark)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Smytisy&theme=blood-dark">
 </p>
+
 <!--
 **Smytisy/Smytisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
